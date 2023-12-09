@@ -2,8 +2,8 @@ allprojects  {
   apply plugin: 'maven'
   apply plugin: 'idea'
   apply plugin: 'eclipse'
-  group = 'com.github.uty3714.BlackObfuscator'
-  version = '2.2-SNAPSHOT'
+  group = 'com.github.uty3714.BlackObfuscatorJ2d'
+  version = '2.3-SNAPSHOT'
 }
 
 defaultTasks('clean','distZip')
