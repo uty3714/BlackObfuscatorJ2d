@@ -238,8 +238,8 @@ public class ObfDic {
             "intento\n"+
             "richiamato\n"+
             "anche\n"+
-            "dallambienta\n"
-            "spazio-tempo\n"
+            "dallambienta\n"+
+            "spazio-tempo\n"+
             "di\n"+
             "questo\n"+
             "primo\n"+
