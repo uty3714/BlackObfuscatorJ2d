@@ -196,7 +196,7 @@ public class ObfDic {
             "verbo\n"+
             "che\n"+
             "riassume\n"+
-            "sinteticamen\n"+te
+            "sinteticamen\n"+
             "quel\n"+
             "che\n"+
             "sarà\n"+
@@ -214,7 +214,7 @@ public class ObfDic {
             "loro\n"+
             "percorso\n"+
             "di\n"+
-            "purificazion\n"+e
+            "purificazion\n"+
             "e\n"+
             "di\n"+
             "espiazione\n"+
